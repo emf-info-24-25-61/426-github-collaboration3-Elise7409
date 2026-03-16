@@ -49,6 +49,5 @@ public class ServiceAnimaux {
                 System.out.println("- " + animal);
             }
         }
-       
     }    
 }
